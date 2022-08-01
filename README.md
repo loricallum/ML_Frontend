@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-You can find the complete and functional app here:
+You can find the complete and functional app here: "Coming Soon" :)
 
 
 ## Setup
@@ -13,15 +13,15 @@ You can find the complete and functional app here:
   - Clone the repo and cd into it.
   - Run `npm install` to get all packages installed on your directory
   - Run `npm start` to open the page locally
-  - Then, go to the backend repo [here](https://github.com/majovanilla/appointments-api) and follow instructions there. 
+  - Then, go to the backend repo: "Coming Soon" :)
 
 
 ## Author
 
 👤 **loricallum**
 
-- Github: [@githubhandle](https://github.com/loricallum)
-- Linkedin: [linkedin](https://linkedin.com/loricallum)
+- Github: [@loricallum](https://github.com/loricallum)
+- Linkedin: [Lori's Linkedin](https://linkedin.com/loricallum)
 
 ## Show your support
 
